@@ -1,5 +1,5 @@
+![Design and Development](https://raw.githubusercontent.com/ProIndies/proindies/main/yashwardhan-s-about.png)
 ## Hii, I'm [Yashwardhan!](https://proindies.com) 👋
-
 <a href="https://twitter.com/pro_indies">
   <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
