@@ -28,7 +28,7 @@
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/proinsights/videos).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💻 I do Design(Graphics & Web), Developement,Video/Photo Editing.
-- 📫 How to reach me: [Twitter - @pro_indies](https://twitter.com/pro_indies) ,[Telegram - @Proindiesk](https://t.me/proindies) , [Youtube](https://www.youtube.com/c/ProInsights)
+- 📫 How to reach me: [Twitter - @pro_indies](https://twitter.com/pro_indies) ,[Telegram - @Proindies](https://t.me/proindies) , [Youtube](https://www.youtube.com/c/ProInsights)
 - 😄 Pronouns: He/His
 - ⚡ Truly Believe In Makeshifting
 
