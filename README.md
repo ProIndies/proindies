@@ -23,7 +23,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [Pro Indies](https://proindies.com/).
+- 🔭 I’.,khikugndies](https://proindies.com/).
 - 🌱 I’m currently learning more about Android Dev.
 - 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/proinsights/videos).
 - 💻 I do Design(Graphics & Web), Developement,Video/Photo Editing.
