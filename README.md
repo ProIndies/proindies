@@ -48,6 +48,6 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
-#### Believe In Supremacy Of Lord Shiva
+#### 🔱
 </div>
 
