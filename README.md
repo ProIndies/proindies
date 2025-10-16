@@ -1,53 +1,60 @@
 ![Design and Development](https://raw.githubusercontent.com/ProIndies/proindies/main/yash-about.gif)
-## Hii, I'm [Yashwardhan!](https://proindies.com) 👋
-<a href="https://twitter.com/pro_indies">
-  <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/proinsights/">
-  <img align="left" alt="Yash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/proindies">
-  <img align="left" alt="Yash's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/proindies.yt/">
-  <img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ProIndies">
-  <img align="left" alt="Yash's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/c/ProInsights/">
-  <img align="left" alt="Yash's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 
-<br/>
-<br/>
+<h1 align="center">👋 Hi, I'm <a href="https://proindies.com" target="_blank">Yashwardhan Sharma</a></h1>
+<h3 align="center">✨ Creative Technologist | Full-Stack Developer | Designer | Content Creator</h3>
 
+<p align="center">
+  <a href="https://twitter.com/pro_indies"><img src="https://img.shields.io/twitter/follow/pro_indies?style=flat&logo=twitter&color=1DA1F2" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/proinsights/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" /></a>
+  <a href="https://t.me/proindies"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat" /></a>
+  <a href="https://instagram.com/proindies.yt/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" /></a>
+  <a href="https://www.youtube.com/c/ProInsights/"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" /></a>
+  <a href="https://proindies.com"><img src="https://img.shields.io/badge/Portfolio-ProIndies.com-2648ff?style=flat&logo=google-chrome" /></a>
+</p>
 
-- 🔭 I’m currently working on [Pro Indies](https://proindies.com/).
-- 🌱 I’m currently learning more about Android Dev.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/proinsights/videos).
-- 💻 I do Design(Graphics & Web), Developement,Video/Photo Editing.
-- 📫 How to reach me: [Twitter - @pro_indies](https://twitter.com/pro_indies) ,[Telegram - @Proindies](https://t.me/proindies) , [Youtube](https://www.youtube.com/c/ProInsights)
-- 😄 Pronouns: He/His
-- ⚡ Truly Believe In Makeshifting
+---
 
+### 🚀 About Me  
+- 🔭 Currently building **[Pro Indies](https://proindies.com)** — a creative tech & design venture.  
+- 🌱 Exploring **Android Development**, **AI Integrations**, and **Web3 tools**.  
+- 👯 Open to collaborations on **YouTube content**, **open-source design/dev tools**, and **creator economy tech**.  
+- 💻 Skilled in **Design (UI/UX, Graphics)** | **Web/App Development** | **Video & Photo Editing**.  
+- ⚡ Motto: *“Makeshift, Create, and Iterate — Nothing’s Impossible.”*  
+- 📫 Reach me: [Twitter](https://twitter.com/pro_indies) • [Telegram](https://t.me/proindies) • [YouTube](https://www.youtube.com/c/ProInsights)
 
-[![Twitter: Yash](https://img.shields.io/twitter/follow/pro_indies?style=social)](https://twitter.com/pro_indies)
-[![Linkedin: Yash](https://img.shields.io/badge/-ProIndies-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/proinsights/)](https://www.linkedin.com/in/proinsights/)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Proindies.com-2648ff?style=flat-square&logo=google-chrome)](https://proindies.com/)
+---
 
+### 🧠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,androidstudio,python,figma,photoshop,illustrator,ae,pr,wordpress,firebase,git" />
+</p>
 
+---
 
+### 📊 GitHub Analytics  
+<p align="center">
+  <a href="https://github.com/proindies">
+    <img src="https://github-readme-stats.vercel.app/api?username=proindies&show_icons=true&theme=radical&line_height=27&hide_border=true" alt="Yash's GitHub stats" />
+  </a>
+  <a href="https://github.com/proindies">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proindies&layout=compact&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-<a href="https://github.com/proindies">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=proindies&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/proindies">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=proindies&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
+---
+
+### 🌐 Connect & Collaborate  
+<p align="center">
+  <a href="mailto:thatyash@gmail.com"><img src="https://img.shields.io/badge/Email-thatyash@gmail.com-red?style=flat&logo=gmail" /></a>
+  <a href="https://proindies.com"><img src="https://img.shields.io/badge/Visit-My%20Website-1abc9c?style=flat&logo=google-chrome" /></a>
+</p>
+
+---
+
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-#### 🔱
-</div>
+### 💖 Show Some Love  
+⭐ Star some repositories or connect with me on social media!  
 
+#### 🔱 *Keep Creating. Keep Evolving.*
+</div>
