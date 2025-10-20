@@ -7,7 +7,7 @@
   <a href="https://twitter.com/pro_indies"><img src="https://img.shields.io/twitter/follow/pro_indies?style=flat&logo=twitter&color=1DA1F2" alt="Twitter"/></a>
   <a href="https://www.linkedin.com/in/proinsights/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" /></a>
   <a href="https://t.me/proindies"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat" /></a>
-  <a href="https://instagram.com/proindies.yt/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" /></a>
+  <a href="https://instagram.com/yashwardhan.rss/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" /></a>
   <a href="https://www.youtube.com/c/ProInsights/"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat" /></a>
   <a href="https://proindies.com"><img src="https://img.shields.io/badge/Portfolio-ProIndies.com-2648ff?style=flat&logo=google-chrome" /></a>
 </p>
