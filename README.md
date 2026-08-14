@@ -4,7 +4,7 @@
 <h3 align="center">✨ Creative Technologist | Full-Stack Developer | Designer | Content Creator</h3>
 
 <p align="center">
-  <a href="https://twitter.com/pro_indies"><img src="https://img.shields.io/twitter/follow/pro_indies?style=flat&logo=twitter&color=1DA1F2" alt="Twitter"/></a>
+  <a href="https://x.com/yashsignal"><img src="https://img.shields.io/twitter/follow/yashsignal?style=flat&logo=x&color=000000" alt="X"/></a>
   <a href="https://www.linkedin.com/in/proinsights/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat" /></a>
   <a href="https://t.me/proindies"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat" /></a>
   <a href="https://instagram.com/yashwardhan.rss/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat" /></a>
@@ -20,7 +20,7 @@
 - 👯 Open to collaborations on **YouTube content**, **open-source design/dev tools**, and **creator economy tech**.  
 - 💻 Skilled in **Design (UI/UX, Graphics)** | **Web/App Development** | **Video & Photo Editing**.  
 - ⚡ Motto: *“Makeshift, Create, and Iterate — Nothing’s Impossible.”*  
-- 📫 Reach me: [Twitter](https://twitter.com/pro_indies) • [Telegram](https://t.me/proindies) • [YouTube](https://www.youtube.com/c/ProInsights)
+- 📫 Reach me: [X](https://x.com/yashsignal) • [Telegram](https://t.me/proindies) • [YouTube](https://www.youtube.com/c/ProInsights)
 
 ---
 
